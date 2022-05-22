@@ -1,7 +1,7 @@
 ### <div align="center">I'm Kamau, a computer science undergrad infatuated with all of tech, finance, and crypto since 2019. I aim to become a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [React About Me](https://about-kamau.netlify.app)  
+- 🔭 I’m currently working on [Crypto Price Listener & Automated Trader]()  
   
 
 - 🌱 I’m currently learning Solidity, Data Science, and React  
