@@ -1,7 +1,7 @@
 ### <div align="center">I'm Kamau, a computer science undergrad infatuated with all of tech, finance, and crypto since 2019. I aim to become a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [React About Me](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [React About Me]()  
   
 
 - 🌱 I’m currently learning Solidity, Data Science, and React  
@@ -47,7 +47,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /> 
 </div>
 
 </td><td valign="top" width="33%">
